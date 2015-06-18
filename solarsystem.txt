@@ -1,7 +1,7 @@
 Mercury
 Venus
-Earth - This is where I live
-Mars - Everything is red here
+Earth
+Mars
 Jupiter
 Saturn
 Uranus
